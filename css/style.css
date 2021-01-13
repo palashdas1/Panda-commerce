@@ -14,3 +14,19 @@
     text-align: center;
     margin-top: 20px;
 }
+.background{
+    background-color: #fceae8;
+}
+.margin-l{
+    margin-left: 15px;
+}
+.image img{
+    width: 100%;
+}
+.margin-b{
+    margin-bottom: 15px;
+}
+.button-style{
+    font-weight: 700px;
+    text-transform: uppercase;
+}
